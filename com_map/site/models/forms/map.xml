@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+        <fieldset>
+                <field
+                        name="id"
+                        type="hidden"
+                />
+                <field
+                        name="search"
+                        type="text"
+                        label="Search the location"
+                        description="Search the location"
+                        size="40"
+                        class="inputbox"
+                        default=""
+                        required="true"
+                />
+
+
+        </fieldset>
+</form>
