@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS `#__Category`;
+DROP TABLE IF EXISTS `#__Product`;

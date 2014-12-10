@@ -1,0 +1,48 @@
+.div
+{
+	float: left;
+}
+.span9 div.span12
+{
+	margin-left : 0px;
+	margin-top : 15px;
+}
+.imgactive
+{
+	border-width:10px;
+}
+.span4
+{
+	cursor: pointer;
+}
+.closebtn
+{
+	display: none;
+	cursor : pointer;
+	height: 20px;
+	position:absolute;
+	float: right;
+}
+.show
+{
+	display: inline;
+}
+.imagearea
+{
+	cursor: pointer;
+	float :left;
+	height: 150px;
+	/*border: solid grey 1px;*/
+}
+.cursor
+{
+	cursor: pointer;
+}
+.modalcursor
+{
+	cursor: -moz-grab;
+}
+.imgborder
+{
+	border:1px solid black;
+}

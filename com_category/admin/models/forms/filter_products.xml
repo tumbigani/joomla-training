@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fields name="filter">
+		<field
+			name="search"
+			type="text"
+			label="COM_Categories_ITEMS_SEARCH_FILTER"
+			hint="JSEARCH_FILTER"
+			class="js-stools-search-string"
+		/>
+		<field
+			name="published"
+			type="status"
+			label="COM_Categories_FILTER_PUBLISHED"
+			statuses="*,0,1,2,-2"
+			description="COM_Categories_FILTER_PUBLISHED_DESC"
+			onchange="this.form.submit();"
+			>
+			<option value="">JOPTION_SELECT_PUBLISHED</option>
+		</field>
+	</fields>
+	<fields name='list'>
+
+		<field
+			name="fullordering"
+			type="list"
+			label="COM_CONTENT_LIST_FULL_ORDERING"
+			description="COM_CONTENT_LIST_FULL_ORDERING_DESC"
+			onchange="this.form.submit();"
+			default="a.id asc"
+			>
+
+			<option value="a.name ASC">COM_CATEGORIES_PRODUCT_NAME_ASC</option>
+			<option value="a.name DESC">COM_CATEGORIES_PRODUCT_NAME_DESC</option>
+			<option value="a.id ASC">JCOM_CATEGORY_PRODUCT_ID_ASC</option>
+			<option value="a.id DESC">JCOM_CATEGORY_PRODUCT_ID_DESC</option>
+
+		</field>
+
+	</fields>
+</form>
