@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"conary"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_row"
+			],
+			[
+				"check",
+				"checkqty"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"txt",
+				"txtmno"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"header",
+				"header_sent"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"apc",
+				"apc_fetch"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"eho",
+				"echopre	echo pre print_r \"…\""
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"convert",
+				"convert_uudecode"
+			],
+			[
+				"convert_",
+				"convert_uuencode"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"echo",
+				"echopre	echo pre print_r \"…\""
+			],
+			[
+				"print",
+				"printer_abort"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"sub",
+				"submitfalg"
+			],
+			[
+				"int",
+				"input"
+			],
+			[
+				"exec",
+				"execution"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/git/training/gani/Assignment-3-D/config.php",
+		"/var/www/git/training/gani/Assignment-3-A/shoppingcart.php",
+		"/var/www/git/training/gani/Assignment-3-E/dbconn.class.php",
+		"/var/www/git/training/gani/Assignment-3-E/index.php",
+		"/var/www/prac/id.php",
+		"/var/www/git/training/gani/Assignment-3-E/reg.php",
+		"/var/www/git/training/gani/Assignment-3-A/cart.php",
+		"/var/www/prac/moresubmit.php",
+		"/var/www/prac/imgsubmit.php",
+		"/var/www/as3/cart.php",
+		"/var/www/as3/index.php",
+		"/var/www/prac/database/dbconn.class.php",
+		"/var/www/prac/database/conn.php",
+		"/var/www/as3/shoppingcart.php",
+		"/var/www/git/training/gani/Assignment-3-B/conn.php",
+		"/var/www/git/training/gani/Assignment-3-B/dbconn.class.php",
+		"/var/www/prac/script.php",
+		"/var/www/prac/filter.php",
+		"/var/www/prac/pass.php",
+		"/var/www/prac/test.php",
+		"/var/www/as3/order.php",
+		"/var/www/prac/sessionarray.php",
+		"/var/www/git/training/gani/Assignment-3-E/conn.php",
+		"/var/www/prac/array.php",
+		"/var/www/prac/val.php",
+		"/var/www/prac/val/reg.php",
+		"/var/www/prac/val/fun.php",
+		"/var/www/prac/arrayencode.php",
+		"/var/www/git/training/README.md",
+		"/var/www/as2/form2.php",
+		"/var/www/prac/txt.php",
+		"/var/www/prac/arraypop.php",
+		"/var/www/as3/dbconn.class.php",
+		"/var/www/as1/chkboxar1.php",
+		"/var/www/as1/chkboxar2.php",
+		"/var/www/as2/forminter.php",
+		"/var/www/as2/form1.php",
+		"/var/www/as2/form3.php",
+		"/var/www/as3/test.php",
+		"/var/www/prac/classs.php",
+		"/var/www/prac/multidimen.php",
+		"/var/www/prac/filename.php",
+		"/var/www/as2/file.php",
+		"/var/www/prac/shopping-cart-in-php/index.php",
+		"/var/www/prac/shopping-cart-in-php/Navigation.php",
+		"/var/www/prac/shopping-cart-in-php/Products.php",
+		"/var/www/prac/php-shopping-cart-sample/config.php",
+		"/var/www/prac/php-shopping-cart-sample/index.php",
+		"/var/www/prac/atag.php",
+		"/var/www/prac/encodedecode.php",
+		"/var/www/prac/substr.php",
+		"/var/www/prac/classobj.php",
+		"/var/www/ass",
+		"/var/www/prac/atag",
+		"/var/www/prac/p1.php",
+		"/var/www/as1/chkboxjs1.php",
+		"/var/www/prac/json.php",
+		"/var/www/as1/chkboxjs2.php",
+		"/var/www/prac/form1.php",
+		"/var/www/as1/assocarray.php",
+		"/var/www/as2/info.php",
+		"/var/www/as2/btn.php",
+		"/var/www/as2/formarray.php",
+		"/var/www/as2/val.php",
+		"/var/www/as2/formarray2.php",
+		"/var/www/as1/array.php",
+		"/var/www/as1/page.php",
+		"/var/www/as2/phpfunction.php",
+		"/var/www/as1/q1.php",
+		"/var/www/as1/date.php",
+		"/var/www/as1/datee.php",
+		"/var/www/as1/form1.php",
+		"/var/www/as1/try",
+		"/var/www/phpinfo.php",
+		"/var/www/chkboxjs1.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"quantity",
+			"$amt",
+			"</label>",
+			"<label>",
+			"pre",
+			"true",
+			"array",
+			"		\n",
+			"$ary",
+			"$_SESSION['id']",
+			"	</",
+			");\n",
+			"submit",
+			"png",
+			"		\n",
+			"</table>",
+			"form",
+			"qty",
+			"if (isset($_SESSION['id']))\n		{\n			echo \"yes\";",
+			"	\n",
+			"$month",
+			">D",
+			"</div>",
+			"call()",
+			":-",
+			"1",
+			"name",
+			"input",
+			"call",
+			"gen",
+			"getElementsByName",
+			"submitfalg",
+			"\";\n",
+			"ary",
+			"\"];\n",
+			"; ",
+			":-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"$_SESSION['id']",
+			"$ary",
+			"delete",
+			"$mont",
+			"",
+			"submitflag",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/git/training/gani/Assignment-3-A/shoppingcart.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

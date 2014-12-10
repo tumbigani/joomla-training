@@ -1,0 +1,9 @@
+var chkbox = document.getElementsByName('lagn');
+	var vals = "";
+for (var i=0, var n=chkbox.length;i<n;i++) {
+  if (chkbox[i].checked)
+  {
+  vals += ","+chkbox[i].value;
+  }
+}
+alert(vals);
