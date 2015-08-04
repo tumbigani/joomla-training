@@ -1,0 +1,5 @@
+var imgpath = "<?php echo JUri::root(); ?>/images/spinner1.gif";
+jQuery('html').block({
+        message: '<img src="'+imgpath+'">',
+});
+jQuery('html').unblock();
